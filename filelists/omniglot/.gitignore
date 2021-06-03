@@ -1,0 +1,11 @@
+base.json
+images
+images/
+images_background.zip
+images_evaluation.zip
+noLatin.json
+novel.json
+test.txt
+train.txt
+val.json
+val.txt

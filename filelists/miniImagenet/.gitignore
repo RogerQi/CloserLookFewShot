@@ -1,0 +1,9 @@
+ILSVRC2015/
+ILSVRC2015
+all.json
+base.json
+novel.json
+test.csv
+train.csv
+val.csv
+val.json
